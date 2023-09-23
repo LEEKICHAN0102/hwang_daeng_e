@@ -56,5 +56,5 @@ const Home: NextPage = () => {
     </div>
   );
 };
-// just git testing
+
 export default Home;
